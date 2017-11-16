@@ -1,14 +1,16 @@
 # Site-campeonato
 Site para cadastro de campeonatos e times 
 
-DATAS DE ENTREGAS:
+DATAS DE ENTREGAS: </br>
 
-16/11 -> HTML/CSS 
-23/11 -> Insert/Updates 
-30/11 -> Select/Deletes 
-07/12 -> Apresentações 
-
+16/11 -> HTML/CSS </br> 
+23/11 -> Insert/Updates </br>
+30/11 -> Select/Deletes </br>
+07/12 -> Apresentações </br>
+</br>
+</br>
 Jean Gabriel de Coli
-Jéssica Totene Terron
-Eliabe Freitas
-João Pedro Loiola
+</br>
+Jéssica Totene Terron</br>
+Eliabe Freitas</br>
+João Pedro Loiola</br>
